@@ -18,4 +18,26 @@
     <string name="cono">Cono</string>
     <string name="cubo">Cubo</string>
     <string name="realizadas">Realizadas</string>
+    <string name="no">No.</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultados">Resultados</string>
+    <array name="OpcionesPrincipal">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/realizadasOP</item>
+    </array>
+    <array name="OpcionesAreas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </array>
+    <array name="OpcionesVolumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </array>
+    <string name="realizadasOP">Operaciones Realizadas</string>
 </resources>

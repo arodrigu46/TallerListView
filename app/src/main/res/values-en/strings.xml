@@ -11,4 +11,17 @@
     <string name="base">Base:</string>
     <string name="triangulo">Triangle</string>
     <string name="altura">Hight</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="circulo">Circle</string>
+    <string name="cono">Cone</string>
+    <string name="cubo">Cube</string>
+    <string name="datos">Data</string>
+    <string name="esfera">Sphere</string>
+    <string name="no">No.</string>
+    <string name="operacion">Operations</string>
+    <string name="radio">Radio:</string>
+    <string name="realizadas">Carried out</string>
+    <string name="resultados">Results</string>
+    <string name="volumenes">Volumes</string>
+    <string name="realizadasOP">Done\'s Operations</string>
 </resources>
