@@ -70,14 +70,14 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/button11"
+            android:id="@+id/btnCalcularCilindro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/calcular" />
 
         <Button
-            android:id="@+id/button12"
+            android:id="@+id/btnBorrarCilindro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
