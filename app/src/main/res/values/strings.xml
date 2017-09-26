@@ -44,4 +44,5 @@
     <string name="area">Area:</string>
     <string name="ok">Ok</string>
     <string name="volumen">Volumen:</string>
+    <string name="error1">Ingrese un valor</string>
 </resources>
