@@ -13,7 +13,6 @@ import java.util.ArrayList;
 public class CuadradoRes extends AppCompatActivity {
     Intent in;
     TextView res;
-    private ArrayList<AreaYVol> areayvol;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

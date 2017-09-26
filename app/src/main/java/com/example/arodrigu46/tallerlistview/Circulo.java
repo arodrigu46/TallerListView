@@ -37,7 +37,7 @@ public class Circulo extends AppCompatActivity {
             rad = radio.getText().toString();
             res = Double.parseDouble(rad);
             Double res2 = (Math.PI * (Math.pow(res, 2)));
-            AreaYVol av = new AreaYVol("Volúmen de Cilindro","Radio: " + rad, String.valueOf(res2));
+            AreaYVol av = new AreaYVol("Area de Circulo","Radio: " + rad, String.valueOf(res2));
             av.guardar();
 
             in = new Intent(Circulo.this, CirculoRes.class);
