@@ -40,4 +40,8 @@
         <item>@string/cubo</item>
     </array>
     <string name="realizadasOP">Operaciones Realizadas</string>
+    <string name="resultado">Resultado</string>
+    <string name="area">Area:</string>
+    <string name="ok">Ok</string>
+    <string name="volumen">Volumen:</string>
 </resources>
